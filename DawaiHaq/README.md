@@ -1,4 +1,4 @@
-# Dawai Haq
+# Dawaihaq
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ### Problem Statement
 1. Enabling a patient-centered information exchange system.
