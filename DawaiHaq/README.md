@@ -15,7 +15,7 @@ Creating a network between patients, doctors and chemists and hence, making thin
 - Creating a network for better future.
 - Suggestions for better maintaining health.
 
-## The Problem DAWAIHAQ Solves 
+## The Problem Dawaihaq Solves 
 - India doesn't have a centralised database system for medical records of individuals residing in the country. Currently, there is very less transparency or flow of information between chemists & doctors which results in discrepancies and misuse of drugs, and eventually leads to various malpractices. Using the centralised database, this problem can be tackled by making the prescription digital and link to the patient's unique ID and later connecting all of this with the Aadhar Card for bio-metric Authentication. 
 
 - People have to rely on stacks of files for keeping record of their medical history.As a sector that strives to establish a healthy world, digitalization or the paperless operations system in healthcare industry is a necessity than a need.
