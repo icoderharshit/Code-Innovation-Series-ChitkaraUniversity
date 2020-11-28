@@ -1,5 +1,5 @@
 # Dawaihaq
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ### Problem Statement
 1. Enabling a patient-centered information exchange system.
 2. Personal medical assistant.
