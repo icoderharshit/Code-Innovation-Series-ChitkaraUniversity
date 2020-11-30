@@ -48,4 +48,4 @@ Creating a network between patients, doctors and chemists and hence, making thin
 -  Since this project is based on Html , CSS and JS no special plugin is require dowload the folder and __open index.html__ .
 -  To access some parts of the project a user account needs to be created using valid email id.
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://icoderharshit.github.io/dawaihaq)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://icoderharshit.github.io/Code-Innovation-Series-ChitkaraUniversity/DawaiHaq/)
