@@ -22,4 +22,30 @@ Creating a network between patients, doctors and chemists and hence, making thin
 
 - With this, we'll also keep the patients profile up to date for ease and update the Appointments and Prescription data according to the visits.
 
+## Contents
+
+
+ #### 1. HomePage
+
+ >   &nbsp;  &nbsp; The homepage of our project provides basic information about our project and various links for registration, viewing user profile etc.
+    
+#### 2. Register 
+>   &nbsp;  &nbsp;A new user can register using this page and will get a verification link on the registered email account after verification the user can access his/her profile on the  __profile page__ __(Authentication , user creation/management is done using firebase)__
+
+#### 3. Sign In 
+>   &nbsp;  &nbsp; Registered user can sign in to his account using signin page. Currently signed in user is shown on the navbar on homepage
+
+#### 4. Patient profile
+>   &nbsp;  &nbsp; Patient can check his/her profile by signing in as patient . This page will provide complete info of the patient and his medical history which can be accessed anytime.
+
+#### 5. Doctor's Page 
+>   &nbsp;  &nbsp; This page provide the doctor access to patient's info and ability to write a new prescription for the patient .  __(Patient's user id needs to be provided to access this page)__
+
+#### 5.Chemist's Page 
+>   &nbsp;  &nbsp; This page provide the chemist access to patient's name ad age and the latest prescription given to the patient .  __(Patient's user id needs to be provided to access this page)__
+
+## Hosting 
+-  Since this project is based on Html , CSS and JS no special plugin is require dowload the folder and __open index.html__ .
+-  To access some parts of the project a user account needs to be created using valid email id.
+
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://icoderharshit.github.io/dawaihaq)
