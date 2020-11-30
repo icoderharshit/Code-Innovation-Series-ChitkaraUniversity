@@ -123,7 +123,7 @@ const deleteAccount = () => {
         .then(() => {
             user.delete();
             alert("Your Account Has Been Deleted!");
-            window.location('/Saada-Hack/index.html');
+            window.location('./index.html');
         })
         .catch(error => {
             console.error(error);
